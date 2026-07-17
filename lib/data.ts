@@ -52,7 +52,7 @@ export const experiences: Experience[] = [
       "Designed and developed full-stack web applications using ASP.NET Core, Web API, Vue.js, and SQL Server.",
       "Built secure backend services handling data validation, API integrations, and business logic.",
       "Developed interactive frontend interfaces using Vue.js, Vuetify, and Bootstrap.",
-      "Implemented data exchange and encryption mechanisms (XML, PGP) for secure government reporting systems.",
+      "Implemented data exchange and encryption mechanisms (XML, PGP) for secure enterprise reporting systems.",
       "Designed database schemas, stored procedures, and views for large-scale applications.",
       "Participated in Agile development processes, including sprint planning and technical discussions.",
     ],
@@ -154,7 +154,7 @@ export const projects: Project[] = [
   },
   {
     name: "Public Library Management System",
-    category: "Government",
+    category: "Public Sector",
     description:
       "A national digital library platform supporting OPAC, eBook management, newspaper archives, cataloguing, circulation, and inventory.",
     highlights: [
@@ -166,7 +166,7 @@ export const projects: Project[] = [
   },
   {
     name: "Case Management System",
-    category: "Government",
+    category: "Public Sector",
     description:
       "A secure system for managing corruption investigation cases for authorities.",
     highlights: [
@@ -176,10 +176,10 @@ export const projects: Project[] = [
     stack: ["ASP.NET Core", "Vue.js", "Vuetify", "SQL Server"],
   },
   {
-    name: "Government Personnel Management",
-    category: "Government",
+    name: "Personnel Management System",
+    category: "Public Sector",
     description:
-      "A centralized personnel management system for government departments to track and manage employee records.",
+      "A centralized personnel management system for organizations to track and manage employee records.",
     highlights: [
       "Modules for personal data, education, leave, awards, and disciplinary records.",
       "Normalized relational data models with secure ASP.NET Core APIs.",
@@ -188,7 +188,7 @@ export const projects: Project[] = [
   },
   {
     name: "Document Management System",
-    category: "Government",
+    category: "Public Sector",
     description:
       "A centralized system to organize case-related data for individuals and organizations along with supporting files.",
     highlights: [
@@ -225,7 +225,7 @@ export const education = [
   {
     school: "Technological University (Meiktila)",
     degree: "Bachelor of Engineering (Information Technology)",
-    period: "2014 — 2020",
+    period: "2018 — 2020",
   },
   {
     school: "Technological University (Meiktila)",

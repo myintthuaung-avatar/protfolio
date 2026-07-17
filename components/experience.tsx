@@ -8,7 +8,7 @@ export function Experience() {
         <SectionHeading
           index="03 / Experience"
           title="Where I've worked"
-          subtitle="Seven years growing from intern to senior developer, leading financial and government systems."
+          subtitle="Seven years growing from intern to senior developer, leading financial and enterprise systems."
         />
 
         <ol className="relative border-l border-border">

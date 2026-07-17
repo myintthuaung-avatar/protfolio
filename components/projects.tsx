@@ -9,7 +9,7 @@ export function Projects() {
         <SectionHeading
           index="04 / Projects"
           title="Selected work"
-          subtitle="A selection of production systems I have designed and built across fintech, government, and enterprise."
+          subtitle="A selection of production systems I have designed and built across fintech, public sector, and enterprise."
         />
 
         <div className="grid gap-5 md:grid-cols-2">

@@ -13,7 +13,7 @@ export function About() {
             <p className="text-pretty text-lg leading-relaxed text-foreground">{profile.objective}</p>
             <p className="mt-5 text-pretty leading-relaxed text-muted-foreground">
               Over the past 7+ years I have specialized in building secure, scalable systems for the
-              fintech and government sectors — from cross-border remittance and loan management
+              fintech and enterprise sectors — from cross-border remittance and loan management
               platforms to national digital libraries and personnel systems. I enjoy owning features
               end to end: designing normalized database schemas, writing performant stored procedures,
               architecting clean APIs, and crafting responsive UIs.
